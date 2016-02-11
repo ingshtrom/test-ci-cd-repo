@@ -1,0 +1,21 @@
+{
+  "name": "test-ci-cd-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'UNIT TESTING!'",
+    "test-e2e": "echo 'E2E TESTING!'",
+    "package": "echo 'PACKAGING THE APP FOR DEPLOYMENT'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olmg/test-ci-cd-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olmg/test-ci-cd-repo/issues"
+  },
+  "homepage": "https://github.com/olmg/test-ci-cd-repo#readme"
+}
